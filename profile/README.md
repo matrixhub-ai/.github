@@ -6,7 +6,7 @@
 
 * **Inference Speed**: "Pull-once, serve-all" caching enables **10Gbps+** distribution to 100+ GPU nodes.
 * **Air-Gap Ready**: Seamless model "ferrying" into isolated networks via native `HF_ENDPOINT` support.
-* **Private AI model Registry**: Unified weight management with **Tag locking** and CI/CD for dev-to-prod consistency.
+* **Private AI model registry**: Unified weight management with **Tag locking** and CI/CD for dev-to-prod consistency.
 * **Geo-Sync**: Automated, resumable replication across global data centers for low-latency access.
 
 ## 🛠️ Core Features
